@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AsteroidPhaser</string>
+    <string name="title_activity_main">AsteroidPhaser</string>
+    <string name="package_name">com.example.asteroidphaser</string>
+    <string name="custom_url_scheme">com.example.asteroidphaser</string>
+</resources>
